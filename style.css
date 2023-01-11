@@ -87,6 +87,7 @@ body {
 
 
 .slider-2 img {
+    display:block;
     flex-shrink: 0;
     width: 100%;
     height: 100%;
